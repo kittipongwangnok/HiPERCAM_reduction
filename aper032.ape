@@ -1,0 +1,84 @@
+[
+  "hipercam.MccdAper",
+  [
+    "1",
+    [
+      "hipercam.CcdAper",
+      [
+        "1",
+        {
+          "Comment": "hipercam.Aperture",
+          "x": 357.53883194968154,
+          "y": 66.3798682838481,
+          "rtarg": 5.0,
+          "rsky1": 15.0,
+          "rsky2": 25.0,
+          "ref": false,
+          "mask": [],
+          "extra": [],
+          "link": "2"
+        }
+      ],
+      [
+        "2",
+        {
+          "Comment": "hipercam.Aperture",
+          "x": 575.6895552336931,
+          "y": 205.00509379396993,
+          "rtarg": 5.0,
+          "rsky1": 15.0,
+          "rsky2": 25.0,
+          "ref": true,
+          "mask": [],
+          "extra": [],
+          "link": ""
+        }
+      ],
+      [
+        "3",
+        {
+          "Comment": "hipercam.Aperture",
+          "x": 87.69381311384232,
+          "y": 144.02978920946742,
+          "rtarg": 5.0,
+          "rsky1": 15.0,
+          "rsky2": 25.0,
+          "ref": false,
+          "mask": [],
+          "extra": [],
+          "link": ""
+        }
+      ],
+      [
+        "4",
+        {
+          "Comment": "hipercam.Aperture",
+          "x": 431.26401851784226,
+          "y": 206.0441270496961,
+          "rtarg": 5.0,
+          "rsky1": 15.0,
+          "rsky2": 25.0,
+          "ref": false,
+          "mask": [],
+          "extra": [],
+          "link": ""
+        }
+      ],
+      [
+        "5",
+        {
+          "Comment": "hipercam.Aperture",
+          "x": 48.85066131825592,
+          "y": 208.2246538831389,
+          "rtarg": 5.0,
+          "rsky1": 15.0,
+          "rsky2": 25.0,
+          "ref": false,
+          "mask": [],
+          "extra": [],
+          "link": ""
+        }
+      ]
+    ]
+  ]
+]
